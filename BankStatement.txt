@@ -1,0 +1,4 @@
+Account Type: Savings
+Transaction Type: Deposit
+Amount: 5000.0
+
